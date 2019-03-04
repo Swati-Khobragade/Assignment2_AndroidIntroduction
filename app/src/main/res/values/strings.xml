@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InterestCalculationApp</string>
+    <string name="screenName">Interest Calculation</string>
+    <string name="amount">Amount</string>
+    <string name="noOfYears">No Of Years</string>
+    <string name="rateOfInterest">Rate Of Interest</string>
+    <string name="calcSimpleInt">Calculate Simple Interest</string>
+    <string name="calcCompInt">Calculate Compound Interest</string>
+    <string name="calculatedInterset">Calculated Interest</string>
+
+</resources>
